@@ -1,6 +1,6 @@
 ![Font-end Web Developer](https://avatars.githubusercontent.com/u/108324481?v=4)
 
-## Hi there 👋, my name is Muntasir Rahoman
+## Hi there 👋, My Name is Muntasir Rahoman
 ### Font-end Web Developer
 
 I'm a front end web developer and web designer.I am expert to convert psd to html. I have good command in HTML, CSS, SASS, JS, jQuery, and Bootstrap. 
